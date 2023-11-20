@@ -1,9 +1,6 @@
 ### Merhaba,Ben Gizem Taşçı 👋
-
 <!--
 **gizem-tasci/gizem-tasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Ben bir Frontend Developer ve Bilgisayar Öğretmeniyim. Teknoloji ve yazılım dünyasına olan ilgimle birlikte, HTML, CSS,C# ve JavaScript gibi teknolojilerde deneyime sahibiyim. Aynı zamanda Python dilini de temel seviyede biliyorum. Öğrencilerime bilgi aktarmanın yanı sıra, yazılım dünyasında sürekli öğrenmeye açık, takım çalışmasına yatkın ve yeniliklere açık biriyim.
 -  📧 Email: (mailto: gizemtasci01@gmail.com)
