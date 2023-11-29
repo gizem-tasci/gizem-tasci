@@ -1,10 +1,11 @@
-Merhaba,Ben Gizem Taşçı 👋
 
- Ben bir Frontend Developer ve Bilgisayar Öğretmeniyim. Teknoloji ve yazılım dünyasına olan ilgimle birlikte, HTML, CSS,C# ve JavaScript gibi teknolojilerde deneyime sahibiyim. Aynı zamanda Python dilini de temel seviyede biliyorum. Öğrencilerime bilgi aktarmanın yanı sıra, yazılım dünyasında sürekli öğrenmeye açık, takım çalışmasına yatkın ve yeniliklere açık biriyim.
- 
- 📧 Email: (mailto: gizemtasci01@gmail.com)
- 
- 😄 Gelişime ve öğrenmeye her zaman açığım, yeni projelerde işbirliği yapmaktan mutluluk duyarım. Eğer bir sorunuz veya iş teklifiniz varsa, benimle iletişime geçebilirsiniz!
- 
- ⚡ Yaratıcı ve kod meraklısı bir bakış açısına sahip olan bir geliştiriciyle tanışmaktan keyif alacağınızı umuyorum. 😊
+Hello, I'm Gizem Taşçı 👋
+
+I am a Frontend Developer and Computer Science Teacher. With my interest in the world of technology and software, I have experience in technologies such as HTML, CSS, C#, and JavaScript. Additionally, I have a basic knowledge of the Python language. Besides transferring knowledge to my students, I am open to continuous learning in the software world, collaborative teamwork, and adaptable to innovations.
+
+📧 Email: gizemtasci01@gmail.com
+
+😄 I am always open to growth and learning, and I would be happy to collaborate on new projects. If you have any questions or job offers, feel free to contact me!
+
+⚡ I hope you will enjoy meeting a developer with a creative and code-curious perspective. 😊
 
